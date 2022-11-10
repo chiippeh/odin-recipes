@@ -1,0 +1,25 @@
+body {
+    background-color: #515751;
+}
+
+h1 {
+    background-color: #596869;
+    color: #F5F9E9;
+    text-align: center;
+    border-radius: 0.2em;
+}
+
+ul {
+    list-style: none;
+    background-color: #C2C1A5;
+    border-radius: 2em;
+}
+
+li {
+    padding: 0.5em;
+}
+
+
+a:visited {
+    color: black;
+}
